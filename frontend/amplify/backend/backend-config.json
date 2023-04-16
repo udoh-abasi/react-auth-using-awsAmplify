@@ -1,0 +1,101 @@
+{
+  "auth": {
+    "newreactauthe1c01a3b": {
+      "customAuth": false,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_newreactauthe1c01a3b_allowUnauthenticatedIdentities": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "newreactauthe1c01a3b"
+        }
+      ]
+    },
+    "AMPLIFY_auth_newreactauthe1c01a3b_authRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "newreactauthe1c01a3b"
+        }
+      ]
+    },
+    "AMPLIFY_auth_newreactauthe1c01a3b_authRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "newreactauthe1c01a3b"
+        }
+      ]
+    },
+    "AMPLIFY_auth_newreactauthe1c01a3b_identityPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "newreactauthe1c01a3b"
+        }
+      ]
+    },
+    "AMPLIFY_auth_newreactauthe1c01a3b_identityPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "newreactauthe1c01a3b"
+        }
+      ]
+    },
+    "AMPLIFY_auth_newreactauthe1c01a3b_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "newreactauthe1c01a3b"
+        }
+      ]
+    },
+    "AMPLIFY_auth_newreactauthe1c01a3b_unauthRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "newreactauthe1c01a3b"
+        }
+      ]
+    },
+    "AMPLIFY_auth_newreactauthe1c01a3b_unauthRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "newreactauthe1c01a3b"
+        }
+      ]
+    },
+    "AMPLIFY_auth_newreactauthe1c01a3b_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "newreactauthe1c01a3b"
+        }
+      ]
+    },
+    "AMPLIFY_auth_newreactauthe1c01a3b_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "newreactauthe1c01a3b"
+        }
+      ]
+    },
+    "AMPLIFY_auth_newreactauthe1c01a3b_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "newreactauthe1c01a3b"
+        }
+      ]
+    }
+  }
+}

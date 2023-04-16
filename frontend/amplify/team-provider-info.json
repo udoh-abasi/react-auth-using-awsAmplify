@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-newreactauth-dev-54252-authRole",
+      "UnauthRoleArn": "arn:aws:iam::828830516673:role/amplify-newreactauth-dev-54252-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::828830516673:role/amplify-newreactauth-dev-54252-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-newreactauth-dev-54252-deployment",
+      "UnauthRoleName": "amplify-newreactauth-dev-54252-unauthRole",
+      "StackName": "amplify-newreactauth-dev-54252",
+      "StackId": "arn:aws:cloudformation:eu-north-1:828830516673:stack/amplify-newreactauth-dev-54252/002de750-db48-11ed-ba3f-0ef179151870",
+      "AmplifyAppId": "d2szhwmx48h9n8"
+    },
+    "categories": {
+      "auth": {
+        "newreactauthe1c01a3b": {
+          "userPoolId": "eu-north-1_rkNzMQTfG",
+          "userPoolName": "new-react-auth",
+          "webClientId": "1sa9372bi7926e4mmr8t5psoh8",
+          "nativeClientId": "1sa9372bi7926e4mmr8t5psoh8",
+          "identityPoolId": "eu-north-1:3b48d9d9-8ff1-4fce-be3e-295e71953eb0",
+          "identityPoolName": "new-react-auth",
+          "allowUnauthenticatedIdentities": true,
+          "authRoleArn": "arn:aws:iam::828830516673:role/Cognito_newreactauthAuth_Role",
+          "authRoleName": "Cognito_newreactauthAuth_Role",
+          "unauthRoleArn": "arn:aws:iam::828830516673:role/Cognito_newreactauthUnauth_Role",
+          "unauthRoleName": "Cognito_newreactauthUnauth_Role"
+        }
+      }
+    }
+  }
+}
